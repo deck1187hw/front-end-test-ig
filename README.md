@@ -19,6 +19,8 @@ my-webapp/app/scripts/main.js
 
 Inside customModule, create a method called numVowels() that receives a string and returns the number of vowels contained on the string.
 You should call the module function externally and console log the result.
+The applicant should demostrate knowledge on the module patter, scope variables and functions, etc.
+
 Example:  
     
 
