@@ -27,7 +27,7 @@ console.log(numVowels);
 
 ### Exercise 3
 
-Code in Less / HTML the image supplied
+Code in SASS / HTML the image supplied
 
 ![alt text](https://github.com/deck1187hw/front-end-test-ig/blob/master/design.png "HTML markup")
 
