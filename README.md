@@ -25,6 +25,14 @@ Example:
     
 
 ```javascript
+
+var myApplication = myApplication || {};
+
+myApplication.customModule = (function() {  
+ // Write the magic here...
+})();
+
+
 var numVowels = myApplication.customModule.numvowels('this is a phrase lets count the vowels on it');
 console.log(numVowels);
 ```
