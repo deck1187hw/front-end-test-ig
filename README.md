@@ -13,6 +13,8 @@ http://davidshariff.com/quiz/
 
 ### Exercise 2
 
+my-webapp/app/scripts/main.js
+
 Inside customModule, create a method called numVowels() that receives a string and returns the number of vowels contained on the string.
 You should call the module function externally and console log the result.
 Example:  
@@ -48,11 +50,11 @@ Go to [http://localhost:9000/]()
 
 The site will be automatically reloaded after making any change on these files:
 
-Javascript:
+**Javascript:**
 my-webapp/app/scripts/main.js
 
-SASS File:
+**SASS File:**
 my-webapp/app/styles/main.scss
 
-HTML:
+**HTML:**
 my-webapp/app/index.html
