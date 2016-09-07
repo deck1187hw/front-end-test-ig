@@ -38,11 +38,11 @@ console.log(numVowels);
 
 ### Exercise 3
 
-Code in SASS / HTML the image supplied
+**Part 1:** Code in SASS / HTML the image supplied
 
 ![alt text](https://github.com/deck1187hw/front-end-test-ig/blob/master/design.png "HTML markup")
 
-Optional: When finished with the design add some interaction and when the user clicks the input, do an jQuery AJAX POST request to http://jsonplaceholder.typicode.com/posts
+**Part 2 (Optional):** When finished with the design add some interaction and when the user clicks the input, do an jQuery AJAX POST request to http://jsonplaceholder.typicode.com/posts
 and send the value of the input box stored in an object like {inputValue:'',yourname:'test'} and console log the output
 
 
