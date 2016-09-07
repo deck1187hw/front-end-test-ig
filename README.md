@@ -11,6 +11,8 @@ my-webapp/app/scripts/main.js
 Quiz Javascript and CSS and write your score below
 http://davidshariff.com/quiz/
 
+If the score is less than 40% we should worry...
+
 ### Exercise 2
 
 my-webapp/app/scripts/main.js
